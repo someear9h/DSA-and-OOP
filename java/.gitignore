@@ -1,0 +1,40 @@
+# Java class files
+*.class
+
+# Log files
+*.log
+
+# BlueJ files
+*.ctxt
+
+# Eclipse files
+.metadata/
+*.classpath
+*.project
+*.settings/
+
+# IntelliJ IDEA files
+*.iml
+.idea/
+
+# Maven and Gradle files
+target/
+*.war
+*.ear
+build/
+out/
+
+# Temporary files
+*.tmp
+*.temp
+
+# OS-specific files
+.DS_Store
+Thumbs.db
+
+# IDE working directories
+.vscode/
+
+# Other specific files
+*.bak
+*.swp
