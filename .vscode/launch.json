@@ -2,6 +2,20 @@
     "configurations": [
         {
             "type": "java",
+            "name": "ValidParenthesis",
+            "request": "launch",
+            "mainClass": "DSA_Java.Stacks_and_Queues.ValidParenthesis",
+            "projectName": "DSA_and_OOP_6f3963a"
+        },
+        {
+            "type": "java",
+            "name": "Solution",
+            "request": "launch",
+            "mainClass": "DSA_Java.Stacks_and_Queues.Solution",
+            "projectName": "DSA_and_OOP_6f3963a"
+        },
+        {
+            "type": "java",
             "name": "StackUsingArray",
             "request": "launch",
             "mainClass": "Stacks_and_Queues.StackUsingArray",
