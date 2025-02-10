@@ -2,6 +2,13 @@
     "configurations": [
         {
             "type": "java",
+            "name": "NextGreaterElementI",
+            "request": "launch",
+            "mainClass": "Stacks_and_Queues.NextGreaterElementI",
+            "projectName": "DSA_and_OOP_12a2d7d2"
+        },
+        {
+            "type": "java",
             "name": "ValidParenthesis",
             "request": "launch",
             "mainClass": "DSA_Java.Stacks_and_Queues.ValidParenthesis",
